@@ -48,8 +48,8 @@ CUMTB Thesis Template for Graduation Project (Undergraduate)
 
 ## Q&A
 ## Work Being Done
-- [] 正文前页面的制作
-- [] 编写模板类，接口留出，实现隐去
-- [] 证明环境的编辑
-- [] 转为 mian.tex-(part.tex)s 的总分模式
-- [] 硕士、博士毕业论文制作
+- [ ] 正文前页面的制作
+- [ ] 编写模板类，接口留出，实现隐去
+- [ ] 证明环境的编辑
+- [ ] 转为 mian.tex-(part.tex)s 的总分模式
+- [ ] 硕士、博士毕业论文制作
