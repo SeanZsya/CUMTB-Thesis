@@ -44,7 +44,7 @@ CUMTB Thesis Template for Graduation Project (Undergraduate)
 
 - 若使用`TeXworks editor`，编译顺序`xelatex` -> `bibtex` -> `xelatex` -> `xelatex`
 #### 方法2：使用脚本文件
-- 点击运行 build_thesis.cmd
+- 点击运行 `content` 文件夹下的 `build_thesis.cmd`
 
 - 如运行遇到问题，尝试以管理员身份打开
 
