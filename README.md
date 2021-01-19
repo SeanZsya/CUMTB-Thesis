@@ -5,7 +5,9 @@ CUMTB Thesis Template for Graduation Project (Undergraduate)
 
 参考文献样式使用[国标GB/T 7714-2005](https://github.com/Haixing-Hu/GBT7714-2005-BibTeX-Style)。
 
-目前仅提供本科毕业设计（论文）模板，请使用 XeTeX 引擎和 UTF-8 字符编码。
+封面及诚信声明、授权使用书等请使用在`cover`文件夹下对doc文件进行编辑，目前仅提供本科毕业设计（论文）的正文模板。
+
+请使用 XeTeX 引擎和 UTF-8 字符编码。
 
 ## 使用
 ### windows用户
