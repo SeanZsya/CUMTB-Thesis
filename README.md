@@ -40,7 +40,7 @@ CUMTB Thesis Template for Graduation Project (Undergraduate)
 ]
 ```
 
-- 编译顺序`xelatex``bibtex` `xelatex``xelatex`
+- 编译顺序`xelatex` -> `bibtex` -> `xelatex` -> `xelatex`
 #### 方法2：使用脚本文件
 - 点击运行 build_thesis.cmd
 
