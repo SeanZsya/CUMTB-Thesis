@@ -2,11 +2,8 @@ cd /d "%~pd0"
 
 @echo off
 set Folder=content
+set FileName=GradProj
 
-
-for %%F in (*.tex) do (
-set FileName=%%~nF
-)
 
 if not exist "./temp" (
  md temp
