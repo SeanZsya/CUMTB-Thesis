@@ -13,7 +13,7 @@ CUMTB Thesis Template for Graduation Project (Undergraduate)
 
 - 推荐使用`Visual Studio code`+`TeX Live`的组合
 
-- 在`VS code`json配置文件中加入
+- 若使用`VS code`，在json配置文件中加入
 ```
 "latex-workshop.latex.tools": [
     {
@@ -40,7 +40,7 @@ CUMTB Thesis Template for Graduation Project (Undergraduate)
 ]
 ```
 
-- 编译顺序`xelatex` -> `bibtex` -> `xelatex` -> `xelatex`
+- 若使用`TeXworks editor`，编译顺序`xelatex` -> `bibtex` -> `xelatex` -> `xelatex`
 #### 方法2：使用脚本文件
 - 点击运行 build_thesis.cmd
 
