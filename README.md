@@ -10,8 +10,12 @@ CUMTB Thesis Template for Graduation Project (Undergraduate)
 请使用 XeTeX 引擎和 UTF-8 字符编码。
 
 ## 使用
-### windows用户
-#### 方法1：在TexLive环境下编译 
+请先安装最新版本的TeX Live，安装过程可参考[知乎cying的文章](https://zhuanlan.zhihu.com/p/41855480)，推荐使用[TUNA镜像](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/)。安装过程较为漫长。
+### 方法1：一键编译
+- 点击运行 `content` 文件夹下的 `build_thesis.cmd`
+
+- 如运行遇到问题，尝试以管理员身份打开
+### 方法2：在TexLive环境下编译 
 
 - 推荐使用`Visual Studio code`+`TeX Live`的组合
 
@@ -43,10 +47,6 @@ CUMTB Thesis Template for Graduation Project (Undergraduate)
 ```
 
 - 若使用`TeXworks editor`，编译顺序`xelatex` -> `bibtex` -> `xelatex` -> `xelatex`
-#### 方法2：使用脚本文件
-- 点击运行 `content` 文件夹下的 `build_thesis.cmd`
-
-- 如运行遇到问题，尝试以管理员身份打开
 
 ## Q&A
 ## Work Being Done
